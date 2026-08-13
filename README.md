@@ -53,7 +53,7 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=achirapamuditha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -62,6 +62,10 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=achirapamuditha&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=achirapamuditha&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
