@@ -1,22 +1,20 @@
-## 🚀 Achira Pamuditha
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:8A2BE2&height=180&section=header&text=Achira%20Pamuditha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Final-Year+Software+Engineering+Student;Building+AI-Powered+Web+Apps;Full-Stack+Developer+%7C+NIBM%2C+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+AI-Powered+Web+Apps;Full-Stack+Developer+%7C+NIBM%2C+Sri+Lanka" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=achirapamuditha&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/achirapamuditha?style=for-the-badge&color=blue&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/achirapamuditha?style=for-the-badge&color=yellow&label=STARS" />
+  <img src="https://img.shields.io/github/followers/achirapamuditha?style=for-the-badge&color=blue&label=FOLLOWERS&logo=github" />
+  <img src="https://img.shields.io/github/stars/achirapamuditha?style=for-the-badge&color=yellow&label=STARS&logo=github" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **Software Engineering** student at **NIBM (National Institute of Business Management), Sri Lanka**
+- 🎓 **Software Engineering** student at **NIBM (National Institute of Business Management), Sri Lanka**
 - 📚 Coursework spans **Software Engineering, Computer Networks, and Emerging Technologies**
 - 🤖 Building AI-powered web applications that solve real-world problems in the Sri Lankan context
 - 🌱 Currently exploring practical AI/ML integration in business and agriculture
@@ -56,8 +54,8 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=achirapamuditha&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achirapamuditha&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=achirapamuditha&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achirapamuditha&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -67,6 +65,8 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=achirapamuditha&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+> 💡 If any widget above shows broken on first load, just refresh the page after a few seconds — these are free public services and occasionally need a moment to generate the image.
 
 ---
 
@@ -88,16 +88,6 @@ A 3-person team project built for the PDSA module — a planner balancing sleep 
 `Team Project` `Git Workflow` `PDSA`
 
 > ⚠️ Update the links above once these projects are pushed to public repos on this GitHub account — currently only repos that exist here will show as clickable.
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/achirapamuditha/achirapamuditha/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
-
-> This animated snake "eats" your contribution graph — it needs a one-time GitHub Actions setup (steps below) to start generating.
 
 ---
 
