@@ -1,1 +1,50 @@
+name: Profile Maintenance
 
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config user.name "achirapamuditha"
+          git config user.email "pamudithaachira@gmail.com"
+
+      - name: Generate random commit count
+        id: count
+        run: |
+          COUNT=$((RANDOM % 6 + 7))
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "Selected $COUNT updates for today"
+
+      - name: Update profile
+        run: |
+          COUNT=${{ steps.count.outputs.count }}
+
+          for i in $(seq 1 $COUNT)
+          do
+            TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%S.%3NZ")
+
+            sed -i "s|<!-- profile-automation: .* -->|<!-- profile-automation: $TIMESTAMP -->|" README.md
+
+            git add README.md
+            git commit -m "chore: update profile metadata"
+            git push
+
+            if [ "$i" -lt "$COUNT" ]; then
+              DELAY=$((RANDOM % 240 + 60))
+              echo "Waiting $DELAY seconds..."
+              sleep "$DELAY"
+            fi
+          done
