@@ -222,7 +222,7 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="(https://www.linkedin.com/in/achira-pamuditha-4065663a3/)">
+<a href="https://www.linkedin.com/in/achira-pamuditha-4065663a3/">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin" />
 </a>
 
