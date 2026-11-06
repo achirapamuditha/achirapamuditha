@@ -250,4 +250,4 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 
 </div>
 
-<!-- profile-automation: 2026-11-06T07:08:03.308Z -->
+<!-- profile-automation: 2026-11-06T07:11:27.606Z -->
