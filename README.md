@@ -20,13 +20,15 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **NIBM (National Institute of Business Management), Sri Lanka**
-- 📚 Coursework spans **Software Engineering, Computer Networks, and Emerging Technologies**
-- 🤖 Building AI-powered web applications that solve real-world problems in the Sri Lankan context
-- 🌱 Currently exploring practical AI/ML integration in business and agriculture
+- 🎓 BSc (Hons) Computer Science with Software Engineering undergraduate at **NIBM (National Institute of Business Management), Sri Lanka**
+- 💻 Building full-stack, IoT and machine learning projects using **Java, Spring Boot, React, Python, PHP and MySQL**
+- 🧩 Experienced in **microservices**, REST APIs and Git-based team collaboration, backed by a strong grounding in data structures and algorithms
+- 🔌 Hands-on with **ESP32 / ESP8266** systems, from sensor data to live web dashboards
+- ⚙️ Interested in **IT operations and application support**, with monitoring and incident-tracking tools plus Docker, Istio and ITIL 4 learning
+- 🌱 Exploring practical AI/ML for **business diagnostics and agriculture** (AI Business Autopsy Tool, CropCare)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/achira-pamuditha-4065663a3/)
 
-I enjoy taking a project from concept to a working prototype — from UI design in Figma, to full-stack build, to integrating AI capabilities like the Claude API. My recent work spans an AI business diagnostic tool, a crop disease detection system, and a team-built productivity planner.
+I turn ideas into working prototypes, from UI design in **Figma** to full-stack development and AI integration with the **Claude API**. I enjoy building practical tools that solve real problems for businesses and communities.
 
 
 ---
@@ -35,12 +37,15 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 
 <div align="center">
 
-| Software Engineering | Artificial Intelligence & ML | Tools & Design |
-|---|---|---|
-| Full-Stack Development | AI-Powered Web Apps | Figma UI/UX Design |
-| Database Engineering | Claude API Integration | Git & Version Control |
-| System Design | Applied ML for SMEs & Agritech | Team Collaboration (Agile) |
+# 🎯 Current Focus
 
+| Software Engineering | IT Operations & Cloud | IoT & AI/ML |
+|:--------------------:|:---------------------:|:-----------:|
+| Full‑Stack Development | Application Monitoring | ESP32 / ESP8266 Systems |
+| Microservices Architecture | Incident Management (ITIL 4) | Real‑Time IoT Dashboards |
+| REST API Design | Log Analysis & Health Checks | Sensor Data Analytics |
+| Data Structures & Algorithms | Containerization (Docker) | Predictive Modeling (Scikit‑learn) |
+| Database Design (MySQL) | Service Mesh (Istio) | Sales Trend Forecasting |
 
 </div>
 
@@ -114,14 +119,68 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 
 # 🏆 Featured Projects
 
+## 🌐 Full‑Stack & Web Systems
 
+### 1. **MiniFlix – Microservices Subscription System**
+> **Netflix‑style subscription and content management platform (EAD Coursework)**
+> **Stack:** Spring Boot, Spring Security, MySQL, React, Axios, Material UI, React Router
+> **Features:** 3 independent microservices (User, Subscription, Content), Basic Auth login, plan CRUD, React admin panel.
+
+### 2. **Zigma Hospital Management System**
+> **PHP‑based hospital operations platform (Web Project)**
+> **Stack:** PHP, MySQL, HTML5, CSS3, JavaScript
+> **Features:** Patient and admin portals, appointment booking, doctor availability, news/events management, CSRF protection, session management, input validation.
+
+### 3. **Service Health Monitor & Incident Tracker**
+> **Operations monitoring tool with live web dashboard (Personal Project)**
+> **Stack:** Python, Flask, SQLite, REST APIs, JSON, Chart.js
+> **Features:** Website/API health checks, log error scanning, auto incident tickets with severity levels, Acknowledge/Resolve workflow, uptime and response‑time charts, JSON/CSV export for Power BI and Excel.
+
+## 🔌 IoT & Embedded Systems
+
+### 4. **ESP32 IoT Water Quality Monitoring System**
+> **Real‑time IoT monitoring with web dashboard**
+> **Stack:** ESP32, Arduino/ESP32 SDK, Firebase, HTML5, CSS3, JavaScript, Chart.js
+> **Features:** Temperature, pH, EC and turbidity sensing, WQI and Microplastic Risk Index, SD card CSV logging, real‑time Firebase sync, 3‑second live dashboard.
+
+### 5. **Automated Color Sorting Robotic Arm**
+> **Industrial manufacturing prototype (NIBM Robotics Module, Group Project)**
+> **Stack:** ESP8266 (NodeMCU), TCS3200, IR Sensor, PCA9685, Servo Motors, Relay, I2C
+> **Features:** Conveyor object detection, color identification, 5‑servo sorting arm, web dashboard for remote control and live item counts.
+
+## 🤖 AI & Machine Learning
+
+### 6. **AI Business Autopsy Tool for SMEs**
+> **AI‑powered business diagnostic web application (Group Final Project)**
+> **Stack:** Python, Flask, Scikit‑learn, HTML, CSS, JavaScript
+> **Features:** Sales Trend Model (Model 2), multi‑model diagnostic output, login, CSV upload, PDF export.
+
+### 7. **CropCare – AI Plant Disease Detection**
+> **AI solution for paddy farmers**
+> **Stack:** Machine Learning
+> **Features:** Plant disease detection concept, technology justification, presentation script.
+
+## 🧮 Algorithms & Data Structures
+
+### 8. **Cycle – Sleep Cycle Optimizer with Nap Planner**
+> **Browser‑based sleep and productivity planner (PDSA Coursework)**
+> **Stack:** JavaScript, HTML, CSS, Git
+> **Features:** Two‑process model (homeostatic pressure + circadian rhythm), hourly productivity forecast, night‑theme UI.
+
+### 9. **SmartBuild – CI/CD Pipeline Task Scheduler**
+> **Dependency‑aware, priority‑based task scheduler (PDSA Coursework)**
+> **Stack:** Python, Graph Algorithms, CPM, Heaps, GitHub
+> **Features:** CPM scheduling, heap‑based task queues, auto re‑planning when tasks overrun, branch and pull request workflow.
 
 ---
 
 # 📜 Certifications
 
-
-
+| Domain | Certifications |
+|--------|----------------|
+| **DevOps & Containers** | Docker Training Course for the Absolute Beginner (KodeKloud) |
+| **Cloud‑Native & Networking** | Introduction to Istio – LFS144 (The Linux Foundation) |
+| **IT Service Management** | ITIL 4 Fundamentals (Great Learning Academy) |
 
 ---
 
@@ -209,7 +268,7 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 
 - Software Engineering & System Architecture
 - Artificial Intelligence & Machine Learning
-- Behavioural Analytics & Explainable AI
+- IT Operations | Application Support
 - Full‑Stack Development & Enterprise Systems
 
 ---
@@ -238,7 +297,7 @@ I enjoy taking a project from concept to a working prototype — from UI design 
 
 <div align="center">
 
-### Engineering Intelligent, Secure & Scalable Digital Solutions
+**From Concept to Working Prototype: Building Practical, Reliable Software**
 
 </div>
 
