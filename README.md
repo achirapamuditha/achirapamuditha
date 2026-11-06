@@ -37,8 +37,6 @@ I turn ideas into working prototypes, from UI design in **Figma** to full-stack 
 
 <div align="center">
 
-# 🎯 Current Focus
-
 | Software Engineering | IT Operations & Cloud | IoT & AI/ML |
 |:--------------------:|:---------------------:|:-----------:|
 | Full‑Stack Development | Application Monitoring | ESP32 / ESP8266 Systems |
