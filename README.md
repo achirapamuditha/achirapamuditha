@@ -27,6 +27,7 @@
 - ⚙️ Interested in **IT operations and application support**, with monitoring and incident-tracking tools plus Docker, Istio and ITIL 4 learning
 - 🌱 Exploring practical AI/ML for **business diagnostics and agriculture** (AI Business Autopsy Tool, CropCare)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/achira-pamuditha-4065663a3/)
+- 🌐 **Live site:** https://portfolio-kappa-nine-3fsdtcmtaa.vercel.app/
 
 I turn ideas into working prototypes, from UI design in **Figma** to full-stack development and AI integration with the **Claude API**. I enjoy building practical tools that solve real problems for businesses and communities.
 
