@@ -180,6 +180,8 @@ I turn ideas into working prototypes, from UI design in **Figma** to full-stack 
 | **DevOps & Containers** | Docker Training Course for the Absolute Beginner (KodeKloud) |
 | **Cloud‑Native & Networking** | Introduction to Istio – LFS144 (The Linux Foundation) |
 | **IT Service Management** | ITIL 4 Fundamentals (Great Learning Academy) |
+| **Security** | Developing Secure Software – LFD121 (The Linux Foundation) |
+| **Networking Basics** | Networking Basics (Cisco) |
 
 ---
 
