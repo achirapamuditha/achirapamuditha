@@ -310,4 +310,4 @@ I turn ideas into working prototypes, from UI design in **Figma** to full-stack 
 
 </div>
 
-<!-- profile-automation: 2026-11-28T08:06:09.406Z -->
+<!-- profile-automation: 2026-11-28T08:08:41.432Z -->
